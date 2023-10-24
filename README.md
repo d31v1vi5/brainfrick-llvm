@@ -3,11 +3,11 @@
 Yet another brainfrick compiler. 
 
 # Example
-
+`hello_world.bf`
 ```
 +[-->-[>>+>-----<<]<--<---]>-.>>>+.>>..+++[.>]<<<<.+++.------.<<-.>>>>+.
 ```
-
+Output:
 ```
 Hello, World!
 ```
